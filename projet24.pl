@@ -1,5 +1,4 @@
-% Souhail Daoudi
-% 300135458
+
 
 % dataset(DirectoryName)
 % this is where the image dataset is located
